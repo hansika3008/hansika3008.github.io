@@ -1,24 +1,41 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://hansika3008.github.io/lifecost/</loc>
+    <loc>https://hansika3008.github.io/</loc>
   </url>
 
   <url>
-    <loc>https://hansika3008.github.io/lifecost/cost-per-use.html</loc>
+    <loc>https://hansika3008.github.io/about.html</loc>
   </url>
 
   <url>
-    <loc>https://hansika3008.github.io/lifecost/real-cost.html</loc>
+    <loc>https://hansika3008.github.io/how-it-works.html</loc>
   </url>
 
   <url>
-    <loc>https://hansika3008.github.io/lifecost/compare-two-products.html</loc>
+    <loc>https://hansika3008.github.io/cost-per-use.html</loc>
   </url>
 
   <url>
-    <loc>https://hansika3008.github.io/lifecost/subscription-cost.html</loc>
+    <loc>https://hansika3008.github.io/real-cost.html</loc>
+  </url>
+
+  <url>
+    <loc>https://hansika3008.github.io/compare-two-products.html</loc>
+  </url>
+
+  <url>
+    <loc>https://hansika3008.github.io/subscription-cost.html</loc>
+  </url>
+
+  <url>
+    <loc>https://hansika3008.github.io/privacy.html</loc>
+  </url>
+
+  <url>
+    <loc>https://hansika3008.github.io/contact.html</loc>
   </url>
 
 </urlset>
